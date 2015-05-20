@@ -1,0 +1,49 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.leftcol {
+	display: inline-block;
+	background-color: #57AAE9;
+	width: 33.3%;
+	height: 100%;
+	float: left;
+}
+
+.middlecol {
+	display: inline-block;
+	background-color: #57E9B6;
+	width: 33.3%;
+	height: 100%;
+	float: left;
+}
+
+.rightcol {
+	display: inline-block;
+	background-color: #A8F170;
+	width: 33.4%;
+	height: 100%;
+	float: left;
+}
+
+.filler {
+	height: 75%;
+}
+
+.rightfoot {
+	background-color: #E2083B;
+	width: 100%;
+	height: 25%;
+	float: left;
+}
+
+.text {
+	font-family: Arial;
+	text-align: center;
+	font-size: 6em;
+	color: #FFFFFF;
+	margin-top: 25%;
+}
